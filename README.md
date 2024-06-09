@@ -7,7 +7,7 @@
 
 ### Getting started
 
-- #### *theory part*
+- #### [*theory part*](/AuthenticationVulnerabilityDeepDive/Theory.md)
 ```
 learn the authentication vulnerability theory from the 
 "AuthenticationVulnerabilityDeepDive" folder
@@ -22,7 +22,13 @@ all the solutions and walkthoughs are present in the
 
 ### accessing the labs
 
+#### 1. Open browser and go to the portswigger.net website to access the labs
+
 [Port Swigger Labs](https://portswigger.net/web-security/all-labs)
+
+#### 2. Create an accout or if u already have an account login
+
+#### 3. 
 
 ![Port Swigger Labs Home page](/assets/portSwiggerHome.png "Port Swigger Labs Home page")
 ---
